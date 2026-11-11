@@ -1,0 +1,879 @@
+{
+  "papers": [
+    {
+      "externalId": "10.1371/journal.pone.0214848",
+      "doi": "10.1371/journal.pone.0214848",
+      "pmcid": "PMC6459485",
+      "pmid": "30973889",
+      "title": "Factors affecting utilization of antenatal care in Ethiopia: A systematic review and meta-analysis.",
+      "authors": [
+        "Tekelab T",
+        "Chojenta C",
+        "Smith R",
+        "Loxton D"
+      ],
+      "year": 2019,
+      "journal": "PloS one",
+      "abstract": "Background In the context of high maternal morbidity and mortality in Sub-Saharan Africa, less than 80% of pregnant women receive antenatal care services. According to a 2016 national report, only 62% of pregnant women in Ethiopia made at least one antenatal care visit. The aim of this review was to systematically and quantitatively summarize the factors affecting utilization of antenatal care in Ethiopia. Methods We searched PubMed, Medline, EMBASE, CINAHL, Google Scholar and Maternity and Infant Care database for studies that had been conducted in Ethiopia between 2002 and 2016. We summarized the studies on the use of antenatal care services quantitatively and qualitatively. A random-effects model was conducted to obtain the pooled estimates. Results A total of fifteen observational studies were included in this review. The pooled prevalence of utilization of antenatal care services in Ethiopia was 63.77% (95CI 53.84-75.54). The pooled odds ratio showed that a significant positive association was found between utilization of antenatal care and urban residence (OR = 1.92, 95%CI = 1.35-2.72), women's education (OR = 1.90, 95%CI = 1.52-2.37), husband's education (OR = 1.49, 95%CI = 1.32-1.69) and planned pregnancy (OR = 2.08, 95%CI = 1.45-2.98). Based on narrative synthesis exposure to mass media, family income and accessibility of the service were strongly associated with utilization of antenatal care. Conclusion The findings of this review found several modifiable factors such as empowering women through education and increasing their decision-making power, promoting family planning to prevent unplanned pregnancy, increasing awareness of women through mass media and making services more accessible would likely to increase utilization of antenatal care. Further research is needed on accessibility and availability of the service at the individual and community level to assess the predictors of antenatal care service utilization.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6459485/",
+      "pdfUrl": "https://europepmc.org/articles/PMC6459485?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12889-017-4071-8",
+      "doi": "10.1186/s12889-017-4071-8",
+      "pmcid": "PMC5290608",
+      "pmid": "28152987",
+      "title": "Trends and causes of maternal mortality in Ethiopia during 1990-2013: findings from the Global Burden of Diseases study 2013.",
+      "authors": [
+        "Tessema GA",
+        "Laurence CO",
+        "Melaku YA",
+        "Misganaw A",
+        "Woldie SA",
+        "Hiruye A",
+        "Amare AT",
+        "Lakew Y",
+        "Zeleke BM",
+        "Deribew A"
+      ],
+      "year": 2017,
+      "journal": "BMC public health",
+      "abstract": "Background Maternal mortality is noticeably high in sub-Saharan African countries including Ethiopia. Continuous nationwide systematic evaluation and assessment of the problem helps to design appropriate policy and strategy in Ethiopia. This study aimed to investigate the trends and causes of maternal mortality in Ethiopia between 1990 and 2013. Methods We used the Global Burden of Diseases and Risk factors (GBD) Study 2013 data that was collected from multiple sources at national and subnational levels. Spatio-temporal Gaussian Process Regression (ST-GPR) was applied to generate best estimates of maternal mortality with 95% Uncertainty Intervals (UI). Causes of death were measured using Cause of Death Ensemble modelling (CODEm). The modified UNAIDS EPP/SPECTRUM suite model was used to estimate HIV related maternal deaths. Results In Ethiopia, a total of 16,740 (95% UI: 14,197, 19,271) maternal deaths occurred in 1990 whereas there were 15,234 (95% UI: 11,378, 19,871) maternal deaths occurred in 2013. This finding shows that Maternal Mortality Ratio (MMR) in Ethiopia was still high in the study period. There was a minimal but insignificant change of MMR over the last 23 years. The results revealed Ethiopia is below the target of Millennium Development Goals (MGDs) related to MMR. The top five causes of maternal mortality in 2013 were other direct maternal causes such as complications of anaesthesia, embolism (air, amniotic fluid, and blood clot), and the condition of peripartum cardiomyopathy (25.7%), complications of abortions (19.6%), maternal haemorrhage (12.2%), hypertensive disorders (10.3%), and maternal sepsis and other maternal infections such as influenza, malaria, tuberculosis, and hepatitis (9.6%). Most of the maternal mortality happened during the postpartum period and majority of the deaths occurred at the age group of 20-29 years. Overall trend showed that there was a decline from 708 per 100,000 live births in 1990 to 497 per 100,000 in 2013. The annual rate of change over these years was -1.6 (95% UI: -2.8 to -0.3). Conclusion The findings of the study highlight the need for comprehensive efforts using multisectoral collaborations from stakeholders for reducing maternal mortality in Ethiopia. It is worthwhile for policies to focus on postpartum period.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5290608/",
+      "pdfUrl": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4071-8"
+    },
+    {
+      "externalId": "10.1371/journal.pone.0184934",
+      "doi": "10.1371/journal.pone.0184934",
+      "pmcid": "PMC5602662",
+      "pmid": "28922383",
+      "title": "Timing and adequate attendance of antenatal care visits among women in Ethiopia.",
+      "authors": [
+        "Yaya S",
+        "Bishwajit G",
+        "Ekholuenetale M",
+        "Shah V",
+        "Kadio B",
+        "Udenigwe O"
+      ],
+      "year": 2017,
+      "journal": "PloS one",
+      "abstract": "Introduction Although ANC services are increasingly available to women in low and middle-income countries, their inadequate use persists. This suggests a misalignment between aims of the services and maternal beliefs and circumstances. Owing to the dearth of studies examining the timing and adequacy of content of care, this current study aims to investigate the timing and frequency of ANC visits in Ethiopia. Methods Data was obtained from the nationally representative 2011 Ethiopian Demographic and Health Survey (EDHS) which used a two-stage cluster sampling design to provide estimates for the health and demographic variables of interest for the country. Our study focused on a sample of 10,896 women with history of at least one childbirth event. Percentages of timing and adequacy of ANC visits were conducted across the levels of selected factors. Variables which were associated at 5% significance level were examined in the multivariable logistic regression model for association between timing and frequency of ANC visits and the explanatory variables while controlling for covariates. Furthermore, we presented the approach to estimate marginal effects involving covariate-adjusted logistic regression with corresponding 95%CI of delayed initiation of ANC visits and inadequate ANC attendance. The method used involved predicted probabilities added up to a weighted average showing the covariate distribution in the population. Results Results indicate that 66.3% of women did not use ANC at first trimester and 22.3% had ANC less than 4 visits. The results of this study were unique in that the association between delayed ANC visits and adequacy of ANC visits were examined using multivariable logistic model and the marginal effects using predicted probabilities. Results revealed that older age interval has higher odds of inadequate ANC visits. More so, type of place of residence was associated with delayed initiation of ANC visits, with rural women having the higher odds of delayed initiation of ANC visits (OR = 1.65; 95%CI: 1.26-2.18). However, rural women had 44% reduction in the odds of having inadequate ANC visits. In addition, multi-parity showed higher odds of delayed initiation of ANC visit when compared to the primigravida (OR = 2.20; 95%CI: 1.07-2.69). On the contrary, there was 36% reduction in the odds of multigravida having inadequate ANC visits when compared to the women who were primigravida. There were higher odds of inadequacy in ANC visits among women who engaged in sales/business, agriculture, skilled manual and other jobs when compared to women who currently do not work, after adjusting for covariates. From the predictive margins, assuming the distribution of all covariates remained the same among respondents, but everyone was aged 15-19 years, we would expect 71.8% delayed initiation of ANC visit. If everyone was aged 20-24years, 73.4%; 25-29years, 66.5%; 30-34years, 64.8%; 35-39years, 65.6%; 40-44years, 59.6% and 45-49years, we would expect 70.1% delayed initiation of ANC visit. If instead the distribution of age was as observed and for other covariates remained the same among respondents, but no respondent lived in the rural, we would expect about 61.4% delayed initiation of ANC visit; if however, everyone lived in the rural, and we would expect 71.6% delayed initiation in ANC visit. Model III revealed the predictive margins of all factors examined for delayed initiation for ANC visits, while Model IV presented the predictive marginal effects of the determinants of adequacy of ANC visits. Conclusion The precise mechanism by which these factors affect ANC visits remain blurred at best. There may be factors on the demand side like the women's empowerment, financial support of the husband, knowledge of ANC visits in the context of timing, frequency and the expectations of ANC visits might be mediating the effects through the factors found associated in this study. Supply side factors like the quality of ANC services, skilled staff, and geographic location of the health centers also mediate their effects through the highlighted factors. Irrespective of the knowledge about the precise mechanism of action, policy makers could focus on improving women's empowerment, improving women's education, reducing wealth inequity and facilitating improved utilization of ANC through modifications on the supply side factors such as geographic location and focus on hard to reach women.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5602662/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5602662?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12913-017-2670-9",
+      "doi": "10.1186/s12913-017-2670-9",
+      "pmcid": "PMC5683361",
+      "pmid": "29132363",
+      "title": "Women's autonomy and maternal healthcare service utilization in Ethiopia.",
+      "authors": [
+        "Tiruneh FN",
+        "Chuang KY",
+        "Chuang YC"
+      ],
+      "year": 2017,
+      "journal": "BMC health services research",
+      "abstract": "Background Most previous studies on healthcare service utilization in low-income countries have not used a multilevel study design to address the importance of community-level women's autonomy. We assessed whether women's autonomy, measured at both individual and community levels, is associated with maternal healthcare service utilization in Ethiopia. Methods We analyzed data from the 2005 and 2011 Ethiopia Demographic and Health Surveys (N = 6058 and 7043, respectively) for measuring women's decision-making power and permissive gender norms associated with wife beating. We used Spearman's correlation and the chi-squared test for bivariate analyses and constructed generalized estimating equation logistic regression models to analyze the associations between women's autonomy indicators and maternal healthcare service utilization with control for other socioeconomic characteristics. Results Our multivariate analysis showed that women living in communities with a higher percentage of opposing attitudes toward wife beating were more likely to use all three types of maternal healthcare services in 2011 (adjusted odds ratios = 1.21, 1.23, and 1.18 for four or more antenatal care visits, health facility delivery, and postnatal care visits, respectively). In 2005, the adjusted odds ratios were 1.16 and 1.17 for four or more antenatal care visits and health facility delivery, respectively. In 2011, the percentage of women in the community with high decision-making power was positively associated with the likelihood of four or more antenatal care visits (adjusted odds ratio = 1.14). The association of individual-level autonomy on maternal healthcare service utilization was less profound after we controlled for other individual-level and community-level characteristics. Conclusions Our study shows that women's autonomy was positively associated with maternal healthcare service utilization in Ethiopia. We suggest addressing woman empowerment in national policies and programs would be the optimal solution.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5683361/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5683361?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12978-017-0412-4",
+      "doi": "10.1186/s12978-017-0412-4",
+      "pmcid": "PMC5688656",
+      "pmid": "29141675",
+      "title": "Delayed initiation of antenatal care and associated factors in Ethiopia: a systematic review and meta-analysis.",
+      "authors": [
+        "Tesfaye G",
+        "Loxton D",
+        "Chojenta C",
+        "Semahegn A",
+        "Smith R"
+      ],
+      "year": 2017,
+      "journal": "Reproductive health",
+      "abstract": "Background Antenatal care uptake is among the key indicators for monitoring the progress of maternal outcomes. Early initiation of antenatal care facilitates the timely management and treatment of pregnancy complications to reduce maternal deaths. In Ethiopia, antenatal care utilization is generally low, and delayed initiation of care is very common. We aimed to systematically identify and synthesize available evidence on delayed initiation of antenatal care and the associated factors in Ethiopia. Methods Studies published in English from 1 January 2002 to 30 April 2017 were systematically searched from PubMed, Medline, EMBASE, CINAHL and other relevant sources. Two authors independently reviewed the identified studies against the eligibility criteria. The included studies were critically appraised using the Joanna Briggs-MAStARI instrument for observational studies. Meta-analysis was conducted in RevMan v5.3 for Windows using a Mantel-Haenszel random effects model. The presence of statistical heterogeneity was checked using the Cochran Q test, and its level was quantified using the I 2 statistics. Pooled estimate of the proportion of the outcome variable was calculated. Pooled Odd Ratios with 95% CI were calculated to measure the effect sizes. Result The pooled magnitude of delayed antenatal care in Ethiopia was 64% (95% CI: 57%, 70%). Maternal age (OR = 0.70; 95% CI: 0.53, 0.93), place of residence (OR = 0.29, 95% CI: 0.16, 0.50), maternal education (OR = 0.49; 95% CI: 0.38, 0.63), husband's education (OR = 0.44; 95% CI: 0.23, 0.85), maternal occupation (OR = 0.75; 95% CI: 0.61, 0.93), monthly income (OR = 2.06; 95% CI: 1.23, 3.45), pregnancy intention (OR = 0.49; 95% CI: 0.40, 0.60), parity (OR = 0.46; 95% CI: 0.36, 0.58), knowledge of antenatal care (OR = 0.40; 95% CI: 0.32, 0.51), women's autonomy (OR = 0.38; 95% CI: 0.15, 0.94), partner involvement (OR = 0.24; 95% CI: 0.07, 0.75), pregnancy complications (OR = 0.23; 95% CI: 0.06, 0.95), and means of identifying pregnancy (OR = 0.50; 95% CI: 0.36, 0.69) were significantly associated with delayed antenatal care. Conclusion Improving female education and women's empowerment through economic reforms, strengthening family planning programs to reduce unintended pregnancy and promoting partner involvement in pregnancy care could reduce the very high magnitude of delayed antenatal care in Ethiopia. Trial registration CRD42017064585 .",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5688656/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5688656?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12939-017-0602-2",
+      "doi": "10.1186/s12939-017-0602-2",
+      "pmcid": "PMC5477250",
+      "pmid": "28629358",
+      "title": "Inequities in utilization of reproductive and maternal health services in Ethiopia.",
+      "authors": [
+        "Bobo FT",
+        "Bobo FT",
+        "Yesuf EA",
+        "Yesuf EA",
+        "Woldie M"
+      ],
+      "year": 2017,
+      "journal": "International journal for equity in health",
+      "abstract": "Background Disparities in health services utilization within and between regional states of countries with diverse socio-cultural and economic conditions such as Ethiopia is a frequent encounter. Understanding and taking measures to address unnecessary and avoidable differences in the use of reproductive and maternal health services is a key concern in Ethiopia. The aim of the study was to examine degree of equity in reproductive and maternal health services utilization in Ethiopia. Method Data from Ethiopia demographic health survey 2014 was analyzed. We assessed inequities in utilization of modern contraceptive methods, antenatal care, facility based delivery and postnatal checkup. Four standard equity measurement methods were used; equity gaps, rate-ratios, concertation curve and concentration index. Results Inequities in service utilization were exhibited favoring women in developed regions, urban residents, most educated and the wealthy. Antenatal care by skilled provider was three times higher among women with post-secondary education than mothers with no education. Women in the highest wealth quantile had about 12 times higher skilled birth attendance than those in lowest wealth quantile. The rate of postnatal care use among urban resident was about 6 times that of women in rural area. Use of modern contraceptive methods was more equitably utilized service while, birth at health facility was less equitable across all economic levels, favoring the wealthy. Conclusion Considerable inequity between and within regions of Ethiopia in the use of maternal health services was demonstrated. Strategically targeting social determinants of health with special emphasis to women education and economic empowerment will substantially contribute for altering the current situation favorably.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477250/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5477250?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12884-017-1488-0",
+      "doi": "10.1186/s12884-017-1488-0",
+      "pmcid": "PMC5594613",
+      "pmid": "28893222",
+      "title": "Quality of antenatal care services and completion of four or more antenatal care visits in Ethiopia: a finding based on a demographic and health survey.",
+      "authors": [
+        "Muchie KF"
+      ],
+      "year": 2017,
+      "journal": "BMC pregnancy and childbirth",
+      "abstract": "Background Antenatal care (ANC) is one of the core interventions for improving maternal outcomes. The average annual decline of maternal mortality rate from 1990 to 2013 was 5% in Ethiopia. This figure was below the least expected 5.5% to achieve the targeted 75% by 1990-2015. Moreover, completion of the recommended four or more ANC visits was only 32%. This study was aimed to examine individual, household and community level potential determinants of completing the recommended visits in the country. Methods The 2014 Ethiopian Mini Demographic and Health Survey data were used. Among women aged 15-49 years 3694 who had given birth in the 5 years preceding the survey were included in the analysis. The robust standard error method of generalized estimation equations were used for binary outcome variable from the clustered data. Results Only 33.0% (95% CI 31. 5% 34.5%) of women completed the recommended visits. Out of the total women, 56.5% had at least one ANC visit. Out of those who had at least one ANC visit, 37.4% visited in their first trimester. Completing the recommended visits was negatively associated with women in the lower educational level, lower economic conditions, higher birth order, and rural residence. But, it was positively associated with the community level high quality ANC services received. Difference in age and region also affected the completion of the recommended visits. Conclusion The finding revealed the need for improving the uptake of ANC services, early arrival in the first trimester for services, and motivating mothers that begin ANC to confirm continuity. Strategies to foster completing the recommended visits should focus on upgrading quality of care services at the community level. Women in low economic level, high birth order, rural residence, and low educational status should be given special attention. Early and late age groups should be given special attention regarding the services.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5594613/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5594613?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12978-016-0270-5",
+      "doi": "10.1186/s12978-016-0270-5",
+      "pmcid": "PMC5237279",
+      "pmid": "28086926",
+      "title": "Maternal health care service seeking behaviors and associated factors among women in rural Haramaya District, Eastern Ethiopia: a triangulated community-based cross-sectional study.",
+      "authors": [
+        "Kifle D",
+        "Azale T",
+        "Gelaw YA",
+        "Melsew YA"
+      ],
+      "year": 2017,
+      "journal": "Reproductive health",
+      "abstract": "Background Regular utilization of maternal health care services reduces maternal morbidity and mortality. This study assessed the maternal health care seeking behavior and associated factors of reproductive age women in rural villages of Haramaya district, East Ethiopia. Methods Community based cross sectional study supplemented with qualitative data was conducted in Haramaya district from November 15 to Decemeber 30, 2015. A total of 561 women in reproductive age group and who gave birth in the last 2 years were randomly included. Bivariate and multivariate logistic regressions model was used to identify the associated factors. Odds ratios with 95% CI were used to measure the strength of association. Result Maternal health care service seeking of women was found as; antenatal care 74.3% (95% CI; 72.5, 76.14), attending institutional delivery 28.7% (95% CI; 26.8, 30.6) and postnatal care 22.6% (95% CI; 20.84, 24.36). Knowledge of pregnancy complications, Educational status, and religion of women were found to be significantly associated with antenatal health care, delivery and postnatal health care service seeking behaviours triangulated with individual, institutional and socio-cultural qualitative data. Conclusion The maternal health care service seeking behavior of women in the study area was low. Educational status of the women, birth order and knowledge about pregnancy complications were the major factors associated with maternal health care service seeking behavior Focused health education with kind and supportive health care provider counseling will improve the maternal health care seeking behaviors of women.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5237279/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5237279?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12913-018-3370-9",
+      "doi": "10.1186/s12913-018-3370-9",
+      "pmcid": "PMC6056996",
+      "pmid": "30041655",
+      "title": "The effect of antenatal care on use of institutional delivery service and postnatal care in Ethiopia: a systematic review and meta-analysis.",
+      "authors": [
+        "Fekadu GA",
+        "Kassa GM",
+        "Berhe AK",
+        "Muche AA",
+        "Katiso NA"
+      ],
+      "year": 2018,
+      "journal": "BMC health services research",
+      "abstract": "Background Although there are many initiatives to improve maternal health services use, utilization of health facility delivery and postnatal care services is low in Ethiopia. Current evidence at global level showed that antenatal care increases delivery and postnatal care services use. But previous studies in Ethiopia indicate contrasting results. Therefore, this meta-analysis was done to identify the effect of antenatal care on institutional delivery and postnatal care services use in Ethiopia. Methods Studies were searched from databases using keywords like place of birth, institutional delivery, and delivery by a skilled attendant, health facility delivery, delivery care, antenatal care, prenatal care and postnatal care and Ethiopia as search terms. The Joanna Briggs Critical Appraisal Tools and the Preferred Reporting Items for Systematic Review and Meta-Analyses were used for quality assessment and data extraction. Data analysis was done using STATA 14. Heterogeneity and publication bias were assessed using I 2 test statistic and Egger's test of significance. Forest plots were used to present the odds ratio (OR) with 95% confidence interval (CI). Result A total of 40 articles with a total sample size of 26,350 were included for this review and meta-analysis. Mothers who had attended one or more antenatal care visits were more likely (OR = 4.07: 95% CI 2.75, 6.02) to deliver at health institutions compared to mothers who did not attend antenatal care. Similarly, mothers who reported antenatal care use were about four times more likely to attend postnatal care service (OR 4.11, 95% CI: 3.32, 5.09). Conclusion Women who attended antenatal care are more likely to deliver in health institutions and attend postnatal care. Therefore, the Ethiopian government and other stakeholders should design interventions that can increase antenatal care uptake since it has a multiplicative effect on health facility delivery and postnatal care services use. Further qualitative research is recommended to identify why the huge gap exists between antenatal care and institutional delivery and postnatal care services use in Ethiopia.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6056996/",
+      "pdfUrl": "https://europepmc.org/articles/PMC6056996?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12978-018-0556-x",
+      "doi": "10.1186/s12978-018-0556-x",
+      "pmcid": "PMC6031117",
+      "pmid": "29973244",
+      "title": "Inequities in maternal health services utilization in Ethiopia 2000-2016: magnitude, trends, and determinants.",
+      "authors": [
+        "Gebre E",
+        "Worku A",
+        "Bukola F"
+      ],
+      "year": 2018,
+      "journal": "Reproductive health",
+      "abstract": "Background Inequities in maternal health services utilization constitute a major challenge in maternal mortality reduction in Ethiopia. We sought to assess magnitude, trends, and determinants of inequities in maternal health services utilization in Ethiopia from 2000 to 2016. Methods The study utilized data from the 2000 and 2016 Ethiopia Demographic and Health Surveys, which were done based on a cross sectional survey design. The wealth-related inequities were assessed by concentration curve and horizontal inequity indices. Trends in inequities were assessed by comparing the concentration indices of maternal health services utilization variables between the 2000 and 2016 surveys using Wagstaff two groups concentration indices comparison method. Finally, the inequities were decomposed into its contributing factors using Wagstaff method of analysis. Results Wealth-related inequities were significantly high in 2016: with horizontal inequities indices and residual regression error of antenatal care, skilled birth attendance, and postnatal care service utilization (- 0.09 and - 0.01), (- 0.06 and 0.01), and (- 0.11 and 0.0001), respectively. These indices increased significantly in 2016 when it is compared with the 2000 indices' with the respective concentration indices difference of - 0.05, 0.05, and - 0.07. The related all p-values were Conclusions In Ethiopia, maternal health services utilization inequities were significantly high and increased in 2016 compared to 2000. Women who are poor, rural resident, uneducated, unemployed, and fewer mass media exposed are the most disadvantaged. Targeting maternal health interventions for the underserved women is essential to reduce maternal mortality in the country.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6031117/",
+      "pdfUrl": "https://europepmc.org/articles/PMC6031117?pdf=render"
+    },
+    {
+      "externalId": "10.1186/1742-4755-12-s1-s4",
+      "doi": "10.1186/1742-4755-12-s1-s4",
+      "pmcid": "PMC4423767",
+      "pmid": "26001059",
+      "title": "Consequences of maternal mortality on infant and child survival: a 25-year longitudinal analysis in Butajira Ethiopia (1987-2011).",
+      "authors": [
+        "Moucheraud C",
+        "Worku A",
+        "Molla M",
+        "Finlay JE",
+        "Leaning J",
+        "Yamin A"
+      ],
+      "year": 2015,
+      "journal": "Reproductive health",
+      "abstract": "Background Maternal mortality remains the leading cause of death and disability for reproductive-age women in resource-poor countries. The impact of a mother's death on child outcomes is likely severe but has not been well quantified. This analysis examines survival outcomes for children whose mothers die during or shortly after childbirth in Butajira, Ethiopia. Methods This study uses data from the Butajira Health and Demographic Surveillance System (HDSS) site. Child outcomes were assessed using statistical tests to compare survival trajectories and age-specific mortality rates for children who did and did not experience a maternal death. The analyses leveraged the advantages of a large, long-term longitudinal dataset with a high frequency of data collection; but used a strict date-based method to code maternal deaths (as occurring within 42 or 365 days of childbirth), which may be subject to misclassification or recall bias. Results Between 1987 and 2011, there were 18189 live births to 5119 mothers; and 73 mothers of 78 children died within the first year of their child's life, with 45% of these (n=30) classified as maternal deaths due to women dying within 42 days of childbirth. Among the maternal deaths, 81% of these infants also died. Children who experienced a maternal death within 42 days of their birth faced 46 times greater risk of dying within one month when compared to babies whose mothers survived (95% confidence interval 25.84-81.92; or adjusted ratio, 57.24 with confidence interval 25.31-129.49). Conclusions When a woman in this study population experienced a maternal death, her infant was much more likely to die than to survive--and the survival trajectory of these children is far worse than those of mothers who do not die postpartum. This highlights the importance of investigating how clinical care and socio-economic support programs can better address the needs of orphans, both throughout the intra- and post-partum periods as well as over the life course.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4423767/",
+      "pdfUrl": "https://europepmc.org/articles/PMC4423767?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12884-015-0493-4",
+      "doi": "10.1186/s12884-015-0493-4",
+      "pmcid": "PMC4407297",
+      "pmid": "25885336",
+      "title": "Barriers to providing quality emergency obstetric care in Addis Ababa, Ethiopia: Healthcare providers' perspectives on training, referrals and supervision, a mixed methods study.",
+      "authors": [
+        "Austin A",
+        "Gulema H",
+        "Belizan M",
+        "Colaci DS",
+        "Kendall T",
+        "Tebeka M",
+        "Hailemariam M",
+        "Bekele D",
+        "Tadesse L",
+        "Berhane Y",
+        "Langer A"
+      ],
+      "year": 2015,
+      "journal": "BMC pregnancy and childbirth",
+      "abstract": "Background Increasing women's access to and use of facilities for childbirth is a critical national strategy to improve maternal health outcomes in Ethiopia; however coverage alone is not enough as the quality of emergency obstetric services affects maternal mortality and morbidity. Addis Ababa has a much higher proportion of facility-based births (82%) than the national average (11%), but timely provision of quality emergency obstetric care remains a significant challenge for reducing maternal mortality and improving maternal health. The purpose of this study was to assess barriers to the provision of emergency obstetric care in Addis Ababa from the perspective of healthcare providers by analyzing three factors: implementation of national referral guidelines, staff training, and staff supervision. Methods A mixed methods approach was used to assess barriers to quality emergency obstetric care. Qualitative analyses included twenty-nine, semi-structured, key informant interviews with providers from an urban referral network consisting of a hospital and seven health centers. Quantitative survey data were collected from 111 providers, 80% (111/138) of those providing maternal health services in the same referral network. Results Respondents identified a lack of transportation and communication infrastructure, overcrowding at the referral hospital, insufficient pre-service and in-service training, and absence of supportive supervision as key barriers to provision of quality emergency obstetric care. Conclusions Dedicated transportation and communication infrastructure, improvements in pre-service and in-service training, and supportive supervision are needed to maximize the effective use of existing human resources and infrastructure, thus increasing access to and the provision of timely, high quality emergency obstetric care in Addis Ababa, Ethiopia.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4407297/",
+      "pdfUrl": "https://bmcpregnancychildbirth.biomedcentral.com/counter/pdf/10.1186/s12884-015-0493-4"
+    },
+    {
+      "externalId": "10.1186/s40249-018-0487-3",
+      "doi": "10.1186/s40249-018-0487-3",
+      "pmcid": "PMC6217769",
+      "pmid": "30392470",
+      "title": "Malaria epidemiology and interventions in Ethiopia from 2001 to 2016.",
+      "authors": [
+        "Taffese HS",
+        "Hemming-Schroeder E",
+        "Koepfli C",
+        "Tesfaye G",
+        "Lee MC",
+        "Kazura J",
+        "Yan GY",
+        "Zhou GF"
+      ],
+      "year": 2018,
+      "journal": "Infectious diseases of poverty",
+      "abstract": "Background Ethiopia is one of the African countries where Plasmodium falciparum and P. vivax co-exist. Monitoring and evaluation of current malaria transmission status is an important component of malaria control as it is a measure of the success of ongoing interventions and guides the planning of future control and elimination efforts. Main text We evaluated changes in malaria control policy in Ethiopia, and reviewed dynamics of country-wide confirmed and clinical malaria cases by Plasmodium species and reported deaths for all ages and less than five years from 2001 to 2016. Districts level annual parasite incidence was analysed to characterize the malaria transmission stratification as implemented by the Ministry of Health. We found that Ethiopia has experienced major changes from 2003 to 2005 and subsequent adjustment in malaria diagnosis, treatment and vector control policy. Malaria interventions have been intensified represented by the increased insecticide treated net (ITN) and indoor residual spraying (IRS) coverage, improved health services and improved malaria diagnosis. However, countrywide ITN and IRS coverages were low, with 64% ITN coverage in 2016 and IRS coverage of 92.5% in 2016 and only implemented in epidemic-prone areas of > 2500 m elevation. Clinical malaria incidence rate dropped from an average of 43.1 cases per 1000 population annually between 2001 and 2010 to 29.0 cases per 1000 population annually between 2011 and 2016. Malaria deaths decreased from 2.1 deaths per 100 000 people annually between 2001 and 2010 to 1.1 deaths per 100 000 people annually between 2011 to 2016. There was shrinkage in the malaria transmission map and high transmission is limited mainly to the western international border area. Proportion of P. falciparum malaria remained nearly unchanged from 2000 to 2016 indicating further efforts are needed to suppress transmission. Conclusions Malaria morbidity and mortality have been significantly reduced in Ethiopia since 2001, however, malaria case incidence is still high, and there were major gaps between ITN ownership and compliance in malarious areas. Additional efforts are needed to target the high transmission area of western Ethiopia to sustain the achievements made to date.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6217769/",
+      "pdfUrl": "https://europepmc.org/articles/PMC6217769?pdf=render"
+    },
+    {
+      "externalId": "10.2147/idr.s223873",
+      "doi": "10.2147/idr.s223873",
+      "pmcid": "PMC7012238",
+      "pmid": "32104008",
+      "title": "Prevalence of Malaria and Associated Risk Factors Among Febrile Children Under Five Years: A Cross-Sectional Study in Arba Minch Zuria District, South Ethiopia.",
+      "authors": [
+        "Abossie A",
+        "Yohanes T",
+        "Nedu A",
+        "Tafesse W",
+        "Damitie M"
+      ],
+      "year": 2020,
+      "journal": "Infection and drug resistance",
+      "abstract": "Background Malaria is a major public health problem affecting humans, particularly in the tropics and subtropics. Children under 5 years old are the group most vulnerable to malaria infection because of less developed immune system. Countries have set targets that led to control and eliminate malaria with interventions of the at-risk groups, however malaria infection remained a major public health challenge in endemic areas. Objective This study aimed at determining the magnitude of malaria and associated factors among febrile children under 5 years old in Arba Minch \"Zuria\" district. Methods The study was conducted from April to May 2017. Blood samples were collected from 271 systematically selected febrile children under 5 years old. Thin and thick blood smears were prepared, stained with 10% Giemsa and examined under light microscope. Data of sociodemographic data, determinant factors, and knowledge and prevention practices of malaria were collected using a pretested structured questionnaire. Data were analyzed using binomial and multinomial regression model in SPSS ® Statistics program, version 25. Results Among those febrile children, 22.1% (60/271) were positive for malaria; 50.0%, 48.33% and 1.66% of them were positive for Plasmodium falciparum, Plasmodium vivax and mixed infections of both parasites, respectively. Malaria infection was associated with nearby presence of stagnant water to resident areas (AOR=8.19; 95%CI: 3.62-18.5, P P Conclusion Malaria infection is highly prevalent in children aged between 37 and 59 months old, in Arba Minch \"Zuria\" district. The proximity of residence to stagnant water and the use of ITNs are the most dominant risk factor for malaria infection. Improved access to all malaria interventions is needed to interrupt the transmission at the community level with a special focus on the risk groups.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7012238/",
+      "pdfUrl": "https://www.dovepress.com/front_end/cr_data/cache/pdf/download_1613358773_6029e6b5c1652/idr-223873-prevalence-of-malaria-and-associated-risk-factors-among-febr.pdf"
+    },
+    {
+      "externalId": "10.1186/s40794-019-0090-z",
+      "doi": "10.1186/s40794-019-0090-z",
+      "pmcid": "PMC6626392",
+      "pmid": "31338202",
+      "title": "Burden of malaria in Ethiopia, 2000-2016: findings from the Global Health Estimates 2016.",
+      "authors": [
+        "Girum T",
+        "Shumbej T",
+        "Shewangizaw M"
+      ],
+      "year": 2019,
+      "journal": "Tropical diseases, travel medicine and vaccines",
+      "abstract": "Background Globally malaria remains one of the high burden diseases particularly in developing countries. Ethiopia is one of the sub-Saharan countries highly endemic to malaria. Although, recently the burden of malaria was reduced remarkably through public health interventions designed during the Millennium Development Goals, it is still a major public health problem in Ethiopia. Hence, measuring the burden of the disease and assessing the trend is very important for monitoring the extent and changes over a period of time. Objective This study aimed to assess the burden of malaria in terms of death and Disability-Adjusted Life Years lost (DALY) between 2000 and 2016. Methods The research used data from Global Health Estimate 2016; that originally collected the information through vital registration, verbal autopsy, surveys, reports, published scientific articles, Global Burden of Disease study (GBD 2016) and modeling. Results In 2016 there were an estimated 2,927,266 (95% CI, 525,000-6,983,000) new malaria cases in Ethiopia. It caused an estimated 4,782 deaths (95% CI 122.5-12,750) with a crude death rate of 4.7/100,000 and Age-standardized death rate (ASDR) of 4.9/100,000 population. However, the number of deaths due to malaria declined by 54% from the 2000's record of 10,412 deaths (95% CI 98.8-16180) within 16 years and ASDR declined by 63% from the 2000 record. In the same year, DALY due to malaria was 365,900 years (187,000 years among male and 178,900 years among females). It contributed for 0.78% of the total DALY in Ethiopia and 1% of the global DALY due to malaria. Around 332,100 life years (YLL) were lost and 35,200 years were lived with disability (YLD) due to malaria. Mortality and DALY related to malaria is slightly higher among males; and under 5 children are highly affected. Conclusion and recommendation Although, the burden of malaria is remarkably declining in Ethiopia; with a higher level of mortality and DALY, it still remained one of the public health problems. Therefore, strengthening the existing malaria prevention program is important to eliminate the disease within the target period.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6626392/",
+      "pdfUrl": "https://europepmc.org/articles/PMC6626392?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12936-017-1798-8",
+      "doi": "10.1186/s12936-017-1798-8",
+      "pmcid": "PMC5385040",
+      "pmid": "28390423",
+      "title": "Caregivers' perception of malaria and treatment-seeking behaviour for under five children in Mandura District, West Ethiopia: a cross-sectional study.",
+      "authors": [
+        "Mitiku I",
+        "Assefa A"
+      ],
+      "year": 2017,
+      "journal": "Malaria journal",
+      "abstract": "Background Early diagnosis and prompt malaria treatment is essential to reduce progression of the illness to severe disease and, therefore, decrease mortality particularly among children under 5 years of age. This study assessed perception of malaria and treatment-seeking behaviour for children under five with fever in the last 2 weeks in Mandura District, West Ethiopia. Methods A community based cross-sectional study was conducted among 491 caregivers of children under five in Mandura District, West Ethiopia in December 2014. Data were collected using interviewer-administered questionnaires. Data were entered into Epi Info version 7 and analysed using SPSS version 20. Multiple logistic regression analyses were conducted to identify the determinants of caregivers' treatment-seeking behaviour. Results Overall, 94.1% of the respondents perceived that fever is the most common symptom and 70% associated mosquito bite with the occurrence of malaria. Of 197 caregivers with under five children with fever in the last 2 weeks preceding the study 87.8% sought treatment. However, only 38.7% received treatment within 24 h of onset of fever. Determinants of treatment-seeking include place of residence (rural/urban) (AOR 2.80, 95% CI 1.01-7.70), caregivers age (AOR 3.40, 95% CI 1.27-9.10), knowledge of malaria (AOR 4.65, 95% CI 1.38-15.64), perceived susceptibility to malaria (AOR 3.63, 95% CI 1.21-10.88), and perceived barrier to seek treatment (AOR 0.18, 95% CI 0.06-0.52). Conclusions Majority of the respondents of this study sought treatment for their under five children. However, a considerable number of caregivers first consulted traditional healers and tried home treatment, thus, sought treatment late. Living in rural village, caregivers' age, malaria knowledge, perceived susceptibility to malaria and perceived barrier to seek treatment were important factors in seeking health care. There is a need to focus on targeted interventions, promote awareness and prevention, and address misconceptions about childhood febrile illness.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5385040/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5385040?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12889-017-4577-0",
+      "doi": "10.1186/s12889-017-4577-0",
+      "pmcid": "PMC5513396",
+      "pmid": "28716009",
+      "title": "Prevalence and associated risk factors of malaria among adults in East Shewa Zone of Oromia Regional State, Ethiopia: a cross-sectional study.",
+      "authors": [
+        "Tadesse F",
+        "Fogarty AW",
+        "Deressa W"
+      ],
+      "year": 2017,
+      "journal": "BMC public health",
+      "abstract": "Background Malaria is one of the most important causes of morbidity and mortality in sub-Saharan Africa. The disease is prevalent in over 75% of the country's area making it the leading public health problems in the country. Information on the prevalence of malaria and its associated factors is vital to focus and improve malaria interventions. Methods A cross-sectional study was carried out from October to November 2012 in East Shewa zone of Oromia Regional State, Ethiopia. Adults aged 16 or more years with suspected malaria attending five health centers were eligible for the study. Logistic regression models were used to examine the effect of each independent variable on risk of subsequent diagnosis of malaria. Results Of 810 suspected adult malaria patients who participated in the study, 204 (25%) had microscopically confirmed malaria parasites. The dominant Plasmodium species were P. vivax (54%) and P. falciparum (45%), with mixed infection of both species in one patient. A positive microscopic result was significantly associated with being in the age group of 16 to 24 years [Adjusted Odds Ratio aOR 6.7; 95% CI: 2.3 to 19.5], 25 to 34 years [aOR 4.2; 95% CI: 1.4 to 12.4], and 35 to 44 years [aOR 3.7; 95% CI: 1.2-11.4] compared to 45 years or older; being treated at Meki health center [aOR 4.1; 95% CI: 2.4 to 7.1], being in Shashemene health center [aOR = 2.3; 95% CI: 1.5 to 4.5], and living in a rural area compared to an urban area [aOR 1.7; 95% CI: 1.1 to 2.6)]. Conclusion Malaria is an important public health problem among adults in the study area with a predominance of P. vivax and P. falciparum infection. Thus, appropriate health interventions should be implemented to prevent and control the disease.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5513396/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5513396?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12879-020-05289-9",
+      "doi": "10.1186/s12879-020-05289-9",
+      "pmcid": "PMC7405459",
+      "pmid": "32758164",
+      "title": "Prevalence and associated factors of malaria among pregnant women in Sherkole district, Benishangul Gumuz regional state, West Ethiopia.",
+      "authors": [
+        "Gontie GB",
+        "Wolde HF",
+        "Baraki AG"
+      ],
+      "year": 2020,
+      "journal": "BMC infectious diseases",
+      "abstract": "Background Malaria during pregnancy leads to serious adverse effects on mothers and the fetus. Approximately 25 million pregnant women in sub-Saharan Africa live at risk of malaria. This study would help to achieve Sustainable Development Goals (SDGs) by improving programs that deal with the prevention of malaria. Therefore, this study aimed to assess the prevalence and associated factors of malaria among pregnant women. Methods A community-based cross-sectional study was conducted from July to August 2018 in Sherkole district, West Ethiopia. A multi-stage sampling technique was used to select 504 pregnant women. The interviewer-administered semi-structured questionnaire was used for data collection. Malaria was also diagnosed using a rapid diagnostic test. The data was entered using EPI info version 7.2.2.2 and transferred to SPSS version 20 for analysis. Descriptive statistics were done using frequency and percentages. Both bivariable and multivariable logistic regression models were employed. Variables having p-value Results Of the total 498 pregnant women who participated in this study, 51(10.2, 95% CI: 7.72-13.24) were found to have malaria. Of these, 46 (90.2%) and 5 (9.8%) were caused by Plasmodium falciparum and Plasmodium vivax, respectively. Decreasing Age (Adjusted Odds Ratio (AOR) 0.78; 95% CI 0.67-0.911), not using insecticide-treated bed net (ITN) (AOR 12.5; 95% CI 4.86-32.21), lack of consultation and health education about malaria prevention (AOR 7.18; 95% CI 2.74-18.81), being on second-trimester pregnancy (AOR 7.58; 95% CI 2.84-20.2), gravidae II (AOR 5.99; 95% CI 1.68-21.44) were found to be significantly associated with malaria during pregnancy. Conclusion Malaria is still a public health problem among pregnant women in the Sherkole district. Age, ITN use, gravidity, gestational age, and health education had a significant association with malaria. Screening pregnant women for asymptomatic malaria infection and educating and consulting on the appropriate malaria preventive methods shall be provided.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7405459/",
+      "pdfUrl": "https://europepmc.org/articles/PMC7405459?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12936-015-0755-7",
+      "doi": "10.1186/s12936-015-0755-7",
+      "pmcid": "PMC4475320",
+      "pmid": "26040464",
+      "title": "Assessment of knowledge, attitude and practice about malaria and ITNs utilization among pregnant women in Shashogo District, Southern Ethiopia.",
+      "authors": [
+        "Fuge TG",
+        "Ayanto SY",
+        "Gurmamo FL"
+      ],
+      "year": 2015,
+      "journal": "Malaria journal",
+      "abstract": "Background Malaria causes variety of adverse consequences in pregnant women due to invasion of the placenta by Plasmodium. It increases the risk of adverse pregnancy outcome for the mother, the foetus and the new-born. Therefore, knowledge, attitudes and practices of this vulnerable group about malaria and the effective use of insecticide-treated nets (ITNs) contribute to sustainable control of the disease and its effects. Methods A community based cross-sectional study was carried out in May, 2014. A validated structured questionnaire was used for data collection. The data was analysed using logistic regression by means of STATA version 11 data analysis software. Results A total of 398 pregnant women participated in the study and their overall knowledge and attitude towards malaria and ITNs was fairly good; 74.3 % of the mothers had good knowledge and 51.1 % of them possessed positive attitude. Nevertheless, only 15.6 % of the mothers associated mosquitoes with malaria and majority of them (65.6 %) responded that it is transmitted due to poor personal hygiene and environmental sanitation. Younger age, receiving information and information obtained from health extension workers and media were found to be important predictors of pregnant women's attitude (P Conclusion Even though the pregnant mothers' knowledge and attitude about malaria and ITNs was fairly good, its ownership and utilization was noticeably very low. Therefore, consistent and timely distribution by the government and other funding agencies is promptly needed. In addition, appropriate health education should be given on the link between malaria and mosquito, regular and correct use of ITNs with special focus to uneducated and elderly mothers.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4475320/",
+      "pdfUrl": "https://europepmc.org/articles/PMC4475320?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12936-017-1907-8",
+      "doi": "10.1186/s12936-017-1907-8",
+      "pmcid": "PMC5493859",
+      "pmid": "28668084",
+      "title": "Factors influencing the ownership and utilization of long-lasting insecticidal nets for malaria prevention in Ethiopia.",
+      "authors": [
+        "Tassew A",
+        "Hopkins R",
+        "Deressa W"
+      ],
+      "year": 2017,
+      "journal": "Malaria journal",
+      "abstract": "Background Utilization of long-lasting insecticidal nets (LLINs) is regarded as key malaria prevention and control strategy. However, studies have reported a large gap in terms of both ownership and utilization particularly in the sub-Saharan Africa (SSA). With continual efforts to improve the use of LLIN and to progress malaria elimination, examining the factors influencing the ownership and usage of LLIN is of high importance. Therefore, the current study was conducted to examine the level of ownership and use of LLIN along with identification of associated factors at household level. Methods A cross-sectional study was conducted in Mirab Abaya District, Southern Ethiopia in June and July 2014. A total of 540 households, with an estimated 2690 members, were selected in four kebeles of the district known to have high incidence of malaria. Trained data collectors interviewed household heads to collect information on the knowledge, ownership and utilization of LLINs, which was complemented by direct observation on the conditions and use of the nets through house-to-house visit. Bivariate and multivariable logistic regression analyses were used to determine factors associated to LLIN use. Results Of 540 households intended to be included in the survey, 507 responded to the study (94.24% response rate), covering the homes of 2759 people. More than 58% of the households had family size >5 (the regional average), and 60.2% of them had at least one child below the age of 5 years. The ownership of at least one LLIN among households surveyed was 89.9%, and using at least one LLIN during the night prior to the survey among net owners was 85.1% (n = 456). Only 36.7% (186) mentioned at least as the mean of correct scores of all participants for 14 possible malaria symptoms and 32.7% (166) knew at least as the mean of correct scores of all participants for possible preventive methods. Over 30% of nets owned by the households were out of use. After controlling for confounding factors, having two or more sleeping places (adjusted odds ratio [aOR] = 2.58, 95% CI 1.17, 5.73), knowledge that LLIN prevents malaria (aOR = 2.51, 95% CI 1.17, 5.37), the presence of hanging bed nets (aOR = 19.24, 95% CI 9.24, 40.07) and walls of the house plastered or painted >12 months ago (aOR = 0.09, 95% CI 0.01, 0.71) were important predictors of LLIN utilization. Conclusions This study found a higher proportion of LLIN ownership and utilization by households than had previously been found in similar studies in Ethiopia, and in many studies in SSA. However, poor knowledge of the transmission mechanisms and the symptoms of malaria, and vector control measures to prevent malaria were evident. Moderate proportions of nets were found to be out of use or in poor repair. Efforts should be in place to maintain the current rate of utilization of LLIN in the district and improve on the identified gaps in order to support the elimination of malaria.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5493859/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5493859?pdf=render"
+    },
+    {
+      "externalId": "10.1155/2021/8863002",
+      "doi": "10.1155/2021/8863002",
+      "pmcid": "PMC7952180",
+      "pmid": "33747096",
+      "title": "Prevalence of Malaria among Adults in Ethiopia: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Kendie FA",
+        "Hailegebriel W/Kiros T",
+        "Nibret Semegn E",
+        "Ferede MW"
+      ],
+      "year": 2021,
+      "journal": "Journal of tropical medicine",
+      "abstract": "Background Malaria is one of the leading causes of mortality and morbidity in tropical and subtropical regions. The bulk of the global malaria burden is in sub-Saharan African countries, including Ethiopia. Malaria adversely affects the health of the peoples as well as the economic development of many developing countries including Ethiopia. Methods This review article was reported according to PRISMA guidelines. Related published articles were searched from online public databases, such as PubMed, Google Scholar, and ScienceDirect. The search approach used to retrieve related articles were \"prevalence,\" \"malaria,\" \"adults,\" and \"Ethiopia.\" The quality of articles was assessed using Joana Brigg's Institute (JBI) critical appraisal checklist. The meta-analysis was computed using STATA version 14. The pooled prevalence estimates with 95% confidence interval were analyzed using a random-effect model, and the possible source of heterogeneity across studies was indicated through subgroup analysis, inverse of variance ( I 2 ), and time series analysis. The presence of publication bias was evaluated using funnel plots and Egger's regression test. Results Out of 144 studies collected, only eight full-text articles were screened and included in the final quantitative meta-analysis. The pooled prevalence of malaria among adults in Ethiopia was 13.61%. Subgroup analysis based on types of malaria cases showed that the prevalence of malaria among symptomatic and asymptomatic adults was 15.34% and 11.99%, respectively. Similarly, regional subgroup analysis showed that the highest malaria prevalence was recorded in Southern Nations, Nationalities, and Peoples' Region (SNNPR) (16.17%) followed by Oromia Regional State (13.11%) and Amhara Regional State (12.41%). Discussion and Conclusion . The current systematic review and meta-analysis showed that the pooled prevalence of malaria among adults was found to be greater than the general population and nearly equal to pregnant women. Therefore, the current prevention and control measures, which are related to both vectors and parasites, should be strengthened.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7952180/",
+      "pdfUrl": "https://europepmc.org/articles/PMC7952180?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12936-018-2607-8",
+      "doi": "10.1186/s12936-018-2607-8",
+      "pmcid": "PMC6282332",
+      "pmid": "30518395",
+      "title": "Reshaping the vector control strategy for malaria elimination in Ethiopia in the context of current evidence and new tools: opportunities and challenges.",
+      "authors": [
+        "Gari T",
+        "Lindtjørn B"
+      ],
+      "year": 2018,
+      "journal": "Malaria journal",
+      "abstract": "The core vector control measures, long-lasting insecticidal nets (LLINs) and indoor residual spraying (IRS), reduce the risk of malaria infection by targeting indoor biting mosquitoes. These two interventions are found to be effective in malaria control, but not sufficient to eliminate malaria. The main challenges with LLINs and IRS are insecticide resistance, misuse of the interventions, host behaviour, such as staying out-door during early night or sleeping outdoor without using protective measures, and vector behaviour including feeding on bovine blood, outdoor biting and outdoor resting. Therefore, for complete interruption of malaria transmission in a defined area there is a need to consider a variety of interventions that can help prevent out-door as well as indoor malaria transmission. In Ethiopia, to achieve the malaria elimination goal, a mix of vector control tools, such as intensifying the use of LLINs and IRS, and supplemented by use of ivermectin administration, zooprophylaxis, odour-baited mosquito trapping, improving housing and larva control measures tailored to the local situation of malaria transmission, may be needed.",
+      "scope": "ethiopia",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6282332/",
+      "pdfUrl": "https://malariajournal.biomedcentral.com/track/pdf/10.1186/s12936-018-2607-8"
+    },
+    {
+      "externalId": "10.1016/s0140-6736(15)00838-7",
+      "doi": "10.1016/s0140-6736(15)00838-7",
+      "pmcid": "PMC5515236",
+      "pmid": "26584737",
+      "title": "Global, regional, and national levels and trends in maternal mortality between 1990 and 2015, with scenario-based projections to 2030: a systematic analysis by the UN Maternal Mortality Estimation Inter-Agency Group.",
+      "authors": [
+        "Alkema L",
+        "Chou D",
+        "Hogan D",
+        "Zhang S",
+        "Moller AB",
+        "Gemmill A",
+        "Fat DM",
+        "Boerma T",
+        "Temmerman M",
+        "Mathers C",
+        "Say L"
+      ],
+      "year": 2016,
+      "journal": "Lancet (London, England)",
+      "abstract": "Background Millennium Development Goal 5 calls for a 75% reduction in the maternal mortality ratio (MMR) between 1990 and 2015. We estimated levels and trends in maternal mortality for 183 countries to assess progress made. Based on MMR estimates for 2015, we constructed projections to show the requirements for the Sustainable Development Goal (SDG) of less than 70 maternal deaths per 100,000 livebirths globally by 2030. Methods We updated the UN Maternal Mortality Estimation Inter-Agency Group (MMEIG) database with more than 200 additional records (vital statistics from civil registration systems, surveys, studies, or reports). We generated estimates of maternal mortality and related indicators with 80% uncertainty intervals (UIs) using a Bayesian model. The model combines the rate of change implied by a multilevel regression model with a time-series model to capture data-driven changes in country-specific MMRs, and includes a data model to adjust for systematic and random errors associated with different data sources. Results We had data for 171 of 183 countries. The global MMR fell from 385 deaths per 100,000 livebirths (80% UI 359-427) in 1990, to 216 (207-249) in 2015, corresponding to a relative decline of 43·9% (34·0-48·7), with 303,000 (291,000-349,000) maternal deaths worldwide in 2015. Regional progress in reducing the MMR since 1990 ranged from an annual rate of reduction of 1·8% (0·0-3·1) in the Caribbean to 5·0% (4·0-6·0) in eastern Asia. Regional MMRs for 2015 ranged from 12 deaths per 100,000 livebirths (11-14) for high-income regions to 546 (511-652) for sub-Saharan Africa. Accelerated progress will be needed to achieve the SDG goal; countries will need to reduce their MMRs at an annual rate of reduction of at least 7·5%. Interpretation Despite global progress in reducing maternal mortality, immediate action is needed to meet the ambitious SDG 2030 target, and ultimately eliminate preventable maternal mortality. Although the rates of reduction that are needed to achieve country-specific SDG targets are ambitious for most high mortality countries, countries that made a concerted effort to reduce maternal mortality between 2000 and 2010 provide inspiration and guidance on how to accomplish the acceleration necessary to substantially reduce preventable maternal deaths. Funding National University of Singapore, National Institute of Child Health and Human Development, USAID, and the UNDP/UNFPA/UNICEF/WHO/World Bank Special Programme of Research, Development and Research Training in Human Reproduction.",
+      "scope": "international",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5515236/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5515236?pdf=render"
+    },
+    {
+      "externalId": "10.1186/1742-4755-12-s2-s5",
+      "doi": "10.1186/1742-4755-12-s2-s5",
+      "pmcid": "PMC4464034",
+      "pmid": "26062992",
+      "title": "Risk factors for maternal death and trends in maternal mortality in low- and middle-income countries: a prospective longitudinal cohort analysis.",
+      "authors": [
+        "Bauserman M",
+        "Lokangaka A",
+        "Thorsten V",
+        "Tshefu A",
+        "Goudar SS",
+        "Esamai F",
+        "Garces A",
+        "Saleem S",
+        "Pasha O",
+        "Patel A",
+        "Manasyan A",
+        "Berrueta M",
+        "Kodkany B",
+        "Chomba E",
+        "Liechty EA",
+        "Hambidge K",
+        "Krebs NF",
+        "Derman RJ",
+        "Hibberd PL",
+        "Althabe F",
+        "Carlo WA",
+        "Koso-Thomas M",
+        "Goldenberg RL",
+        "Wallace DD",
+        "McClure EM",
+        "Bose CL"
+      ],
+      "year": 2015,
+      "journal": "Reproductive health",
+      "abstract": "Background Because large, prospective, population-based data sets describing maternal outcomes are typically not available in low- and middle-income countries, it is difficult to monitor maternal mortality rates over time and to identify factors associated with maternal mortality. Early identification of risk factors is essential to develop comprehensive intervention strategies preventing pregnancy-related complications. Our objective was to describe maternal mortality rates in a large, multi-country dataset and to determine maternal, pregnancy-related, delivery and postpartum characteristics that are associated with maternal mortality. Methods We collected data describing all pregnancies from 2010 to 2013 among women enrolled in the multi-national Global Network for Women's and Children's Health Research Maternal and Neonatal Health Registry (MNHR). We reported the proportion of mothers who died per pregnancy and the maternal mortality ratio (MMR). Generalized linear models were used to evaluate the relationship of potential medical and social factors and maternal mortality and to develop point and interval estimates of relative risk associated with these factors. Generalized estimating equations were used to account for the correlation of outcomes within cluster to develop appropriate confidence intervals. Results We recorded 277,736 pregnancies and 402 maternal deaths for an MMR of 153/100,000 live births. We observed an improvement in the total MMR from 166 in 2010 to 126 in 2013. The MMR in Latin American sites (91) was lower than the MMR in Asian (178) and African sites (125). When adjusted for study site and the other variables, no formal education (RR 3.2 [1.5, 6.9]), primary education only (RR 3.4 [1.6, 7.5]), secondary education only (RR 2.5 [1.1, 5.7]), lack of antenatal care (RR 1.8 [1.2, 2.5]), caesarean section delivery (RR 1.9 [1.3, 2.8]), hemorrhage (RR 3.3 [2.2, 5.1]), and hypertensive disorders (RR 7.4 [5.2, 10.4]) were associated with higher risks of death. Conclusions The MNHR identified preventable causes of maternal mortality in diverse settings in low- and middle-income countries. The MNHR can be used to monitor public health strategies and determine their association with reducing maternal mortality. Trial registration clinicaltrials.gov NCT01073475.",
+      "scope": "international",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4464034/",
+      "pdfUrl": "https://europepmc.org/articles/PMC4464034?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12978-020-00990-z",
+      "doi": "10.1186/s12978-020-00990-z",
+      "pmcid": "PMC7745363",
+      "pmid": "33334343",
+      "title": "Maternal mortality in six low and lower-middle income countries from 2010 to 2018: risk factors and trends.",
+      "authors": [
+        "Bauserman M",
+        "Thorsten VR",
+        "Nolen TL",
+        "Patterson J",
+        "Lokangaka A",
+        "Tshefu A",
+        "Patel AB",
+        "Hibberd PL",
+        "Garces AL",
+        "Figueroa L",
+        "Krebs NF",
+        "Esamai F",
+        "Nyongesa P",
+        "Liechty EA",
+        "Carlo WA",
+        "Chomba E",
+        "Goudar SS",
+        "Kavi A",
+        "Derman RJ",
+        "Saleem S",
+        "Jessani S",
+        "Billah SM",
+        "Koso-Thomas M",
+        "McClure EM",
+        "Goldenberg RL",
+        "Bose C"
+      ],
+      "year": 2020,
+      "journal": "Reproductive health",
+      "abstract": "Background Maternal mortality is a public health problem that disproportionately affects low and lower-middle income countries (LMICs). Appropriate data sources are lacking to effectively track maternal mortality and monitor changes in this health indicator over time. Methods We analyzed data from women enrolled in the NICHD Global Network for Women's and Children's Health Research Maternal Newborn Health Registry (MNHR) from 2010 through 2018. Women delivering within research sites in the Democratic Republic of Congo, Guatemala, India (Nagpur and Belagavi), Kenya, Pakistan, and Zambia are included. We evaluated maternal and delivery characteristics using log-binomial models and multivariable models to obtain relative risk estimates for mortality. We used running averages to track maternal mortality ratio (MMR, maternal deaths per 100,000 live births) over time. Results We evaluated 571,321 pregnancies and 842 maternal deaths. We observed an MMR of 157 / 100,000 live births (95% CI 147, 167) across all sites, with a range of MMRs from 97 (76, 118) in the Guatemala site to 327 (293, 361) in the Pakistan site. When adjusted for maternal risk factors, risks of maternal mortality were higher with maternal age > 35 (RR 1.43 (1.06, 1.92)), no maternal education (RR 3.40 (2.08, 5.55)), lower education (RR 2.46 (1.54, 3.94)), nulliparity (RR 1.24 (1.01, 1.52)) and parity > 2 (RR 1.48 (1.15, 1.89)). Increased risk of maternal mortality was also associated with occurrence of obstructed labor (RR 1.58 (1.14, 2.19)), severe antepartum hemorrhage (RR 2.59 (1.83, 3.66)) and hypertensive disorders (RR 6.87 (5.05, 9.34)). Before and after adjusting for other characteristics, physician attendance at delivery, delivery in hospital and Caesarean delivery were associated with increased risk. We observed variable changes over time in the MMR within sites. Conclusions The MNHR is a useful tool for tracking MMRs in these LMICs. We identified maternal and delivery characteristics associated with increased risk of death, some might be confounded by indication. Despite declines in MMR in some sites, all sites had an MMR higher than the Sustainable Development Goals target of below 70 per 100,000 live births by 2030. Trial registration The MNHR is registered at NCT01073475 .",
+      "scope": "international",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7745363/",
+      "pdfUrl": "https://europepmc.org/articles/PMC7745363?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12884-016-1120-8",
+      "doi": "10.1186/s12884-016-1120-8",
+      "pmcid": "PMC5106816",
+      "pmid": "27836005",
+      "title": "The causes of maternal mortality in adolescents in low and middle income countries: a systematic review of the literature.",
+      "authors": [
+        "Neal S",
+        "Mahendra S",
+        "Bose K",
+        "Camacho AV",
+        "Mathai M",
+        "Nove A",
+        "Santana F",
+        "Matthews Z"
+      ],
+      "year": 2016,
+      "journal": "BMC pregnancy and childbirth",
+      "abstract": "Background While the main causes of maternal mortality in low and middle income countries are well understood, less is known about whether patterns for causes of maternal deaths among adolescents are the same as for older women. This study systematically reviews the literature on cause of maternal death in adolescence. Where possible we compare the main causes for adolescents with those for older women to ascertain differences and similarity in mortality patterns. Methods An initial search for papers and grey literature in English, Spanish and Portuguese was carried out using a number of electronic databases based on a pre-determined search strategy. The outcome of interest was the proportion of maternal deaths amongst adolescents by cause of death. A total of 15 papers met the inclusion criteria established in the study protocol. Results The main causes of maternal mortality in adolescents are similar to those of older women: hypertensive disorders, haemorrhage, abortion and sepsis. However some studies indicated country or regional differences in the relative magnitudes of specific causes of adolescent maternal mortality. When compared with causes of death for older women, hypertensive disorders were found to be a more important cause of mortality for adolescents in a number of studies in a range of settings. In terms of indirect causes of death, there are indications that malaria is a particularly important cause of adolescent maternal mortality in some countries. Conclusion The main causes of maternal mortality in adolescents are broadly similar to those for older women, although the findings suggest some heterogeneity between countries and regions. However there is evidence that the relative importance of specific causes may differ for this younger age group compared to women over the age of 20 years. In particular hypertensive conditions make up a larger share of maternal deaths in adolescents than older women. Further, large scale studies are needed to investigate this question further.",
+      "scope": "international",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5106816/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5106816?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s40985-020-00125-6",
+      "doi": "10.1186/s40985-020-00125-6",
+      "pmcid": "PMC7265229",
+      "pmid": "32514389",
+      "title": "Social determinants of maternal health: a scoping review of factors influencing maternal mortality and maternal health service use in India.",
+      "authors": [
+        "Hamal M",
+        "Dieleman M",
+        "De Brouwere V",
+        "de Cock Buning T"
+      ],
+      "year": 2020,
+      "journal": "Public health reviews",
+      "abstract": "Background Maternal health remains a major public health problem in India, with large inter- and intra-state inequities in maternal health service use and maternal deaths. The Commission on Social Determinants of Health provides a framework to identify structural and intermediary factors of health inequities, including maternal health, and understand their mechanism of influence, which might be important in addressing maternal health inequities in India. Our review aims to map and summarize the evidence on social determinants influencing maternal health in India and understand their mechanisms of influence by using a maternal health-specific social determinants framework. Methods A scoping review was conducted of peer-reviewed journal articles in two databases (PubMed and Science Direct) on quantitative and qualitative studies conducted in India after 2000. We also searched for articles in a search engine (Google Scholar). Forty-one studies that met the study objectives were included: 25 identified through databases and search engines and 16 through reference check. Results Economic status, caste/ethnicity, education, gender, religion, and culture were the most important structural factors of maternal health service use and maternal mortality in India. Place of residence, maternal age at childbirth, parity and women's exposure to mass media, and maternal health messages were the major intermediary factors. The structural factors influenced the intermediary factors (either independently or in association with other factors) that contributed to the use of maternal health service or caused maternal deaths. The health system emerged as a crucial and independent intermediary factor of influence on maternal health in India. Issues of power were observed in broader social contexts and in the relationships of health workers which led to differential access to maternal healthcare for women from different socioeconomic groups. Conclusion The model integrates existing information from quantitative and qualitative studies and provides a more comprehensive picture of structural and intermediary factors of maternal health service use and maternal mortality in India and their mechanisms of influence. Given the limitations of this study, we indicate the areas for further research pertaining to the framework and maternal health.",
+      "scope": "international",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7265229/",
+      "pdfUrl": "https://europepmc.org/articles/PMC7265229?pdf=render"
+    },
+    {
+      "externalId": "10.1186/s12884-023-05459-y",
+      "doi": "10.1186/s12884-023-05459-y",
+      "pmcid": "PMC10148415",
+      "pmid": "37120529",
+      "title": "Risk factors for postpartum maternal mortality and hospital readmission in low- and middle-income countries: a systematic review.",
+      "authors": [
+        "Symonds NE",
+        "Vidler M",
+        "Wiens MO",
+        "Omar S",
+        "English LL",
+        "Ukah UV",
+        "Ansermino JM",
+        "Ngonzi J",
+        "Bebell LM",
+        "Hwang B",
+        "Christoffersen-Deb A",
+        "Kissoon N",
+        "Payne BA"
+      ],
+      "year": 2023,
+      "journal": "BMC pregnancy and childbirth",
+      "abstract": "Background In low- and middle-income countries, approximately two thirds of maternal deaths occur in the postpartum period. Yet, care for women beyond 24 h after discharge is limited. The objective of this systematic review is to summarize current evidence on socio-demographic and clinical risk factors for (1) postpartum mortality and (2) postpartum hospital readmission. Methods A combination of keywords and subject headings (i.e. MeSH terms) for postpartum maternal mortality or readmission were searched. Articles published up to January 9, 2021 were identified in MEDLINE, EMBASE, and CINAHL databases, without language restrictions. Studies reporting socio-demographic or clinical risk factors for postpartum mortality or readmission within six weeks of delivery among women who delivered a livebirth in a low- or middle-income country were included. Data were extracted independently by two reviewers based on study characteristics, population, and outcomes. Included studies were assessed for quality and risk of bias using the Downs and Black checklist for ratings of randomized and non-randomized studies. Results Of 8783 abstracts screened, seven studies were included (total N = 387,786). Risk factors for postpartum mortality included Caesarean mode of delivery, nulliparity, low or very low birthweight, and shock upon admission. Risk factors for postpartum readmission included Caesarean mode of delivery, HIV positive serostatus, and abnormal body temperature. Conclusions Few studies reported individual socio-demographic or clinical risk factors for mortality or readmission after delivery in low- and middle-income countries; only Caesarean delivery was consistently reported. Further research is needed to identify factors that put women at greatest risk of post-discharge complications and mortality. Understanding post-discharge risk would facilitate targeted postpartum care and reduce adverse outcomes in women after delivery. Trial registration PROSPERO registration number: CRD42018103955.",
+      "scope": "international",
+      "diseaseTags": [
+        "maternal-health"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10148415/",
+      "pdfUrl": "https://europepmc.org/articles/PMC10148415?pdf=render"
+    },
+    {
+      "externalId": "10.1016/s0140-6736(20)32227-3",
+      "doi": "10.1016/s0140-6736(20)32227-3",
+      "pmcid": "PMC7718580",
+      "pmid": "33278936",
+      "title": "Effectiveness of seasonal malaria chemoprevention at scale in west and central Africa: an observational study.",
+      "authors": [
+        "ACCESS-SMC Partnership"
+      ],
+      "year": 2020,
+      "journal": "Lancet (London, England)",
+      "abstract": "Background Seasonal malaria chemoprevention (SMC) aims to prevent malaria in children during the high malaria transmission season. The Achieving Catalytic Expansion of SMC in the Sahel (ACCESS-SMC) project sought to remove barriers to the scale-up of SMC in seven countries in 2015 and 2016. We evaluated the project, including coverage, effectiveness of the intervention, safety, feasibility, drug resistance, and cost-effectiveness. Methods For this observational study, we collected data on the delivery, effectiveness, safety, influence on drug resistance, costs of delivery, impact on malaria incidence and mortality, and cost-effectiveness of SMC, during its administration for 4 months each year (2015 and 2016) to children younger than 5 years, in Burkina Faso, Chad, The Gambia, Guinea, Mali, Niger, and Nigeria. SMC was administered monthly by community health workers who visited door-to-door. Drug administration was monitored via tally sheets and via household cluster-sample coverage surveys. Pharmacovigilance was based on targeted spontaneous reporting and monitoring systems were strengthened. Molecular markers of resistance to sulfadoxine-pyrimethamine and amodiaquine in the general population before and 2 years after SMC introduction was assessed from community surveys. Effectiveness of monthly SMC treatments was measured in case-control studies that compared receipt of SMC between patients with confirmed malaria and neighbourhood-matched community controls eligible to receive SMC. Impact on incidence and mortality was assessed from confirmed outpatient cases, hospital admissions, and deaths associated with malaria, as reported in national health management information systems in Burkina Faso and The Gambia, and from data from selected outpatient facilities (all countries). Provider costs of SMC were estimated from financial costs, costs of health-care staff time, and volunteer opportunity costs, and cost-effectiveness ratios were calculated as the total cost of SMC in each country divided by the predicted number of cases averted. Findings 12 467 933 monthly SMC treatments were administered in 2015 to a target population of 3 650 455 children, and 25 117 480 were administered in 2016 to a target population of 7 551 491. In 2015, among eligible children, mean coverage per month was 76·4% (95% CI 74·0-78·8), and 54·5% children (95% CI 50·4-58·7) received all four treatments. Similar coverage was achieved in 2016 (74·8% [72·2-77·3] treated per month and 53·0% [48·5-57·4] treated four times). In 779 individual case safety reports over 2015-16, 36 serious adverse drug reactions were reported (one child with rash, two with fever, 31 with gastrointestinal disorders, one with extrapyramidal syndrome, and one with Quincke's oedema). No cases of severe skin reactions (Stevens-Johnson or Lyell syndrome) were reported. SMC treatment was associated with a protective effectiveness of 88·2% (95% CI 78·7-93·4) over 28 days in case-control studies (2185 cases of confirmed malaria and 4370 controls). In Burkina Faso and The Gambia, implementation of SMC was associated with reductions in the number of malaria deaths in hospital during the high transmission period, of 42·4% (95% CI 5·9 to 64·7) in Burkina Faso and 56·6% (28·9 to 73·5) in The Gambia. Over 2015-16, the estimated reduction in confirmed malaria cases at outpatient clinics during the high transmission period in the seven countries ranged from 25·5% (95% CI 6·1 to 40·9) in Nigeria to 55·2% (42·0 to 65·3) in The Gambia. Molecular markers of resistance occurred at low frequencies. In individuals aged 10-30 years without SMC, the combined mutations associated with resistance to amodiaquine (pfcrt CVIET haplotype and pfmdr1 mutations [86Tyr and 184Tyr]) had a prevalence of 0·7% (95% CI 0·4-1·2) in 2016 and 0·4% (0·1-0·8) in 2018 (prevalence ratio 0·5 [95% CI 0·2-1·2]), and the quintuple mutation associated with resistance to sulfadoxine-pyrimethamine (triple mutation in pfdhfr and pfdhps mutations [437Gly and 540Glu]) had a prevalence of 0·2% (0·1-0·5) in 2016 and 1·0% (0·6-1·6) in 2018 (prevalence ratio 4·8 [1·7-13·7]). The weighted average economic cost of administering four monthly SMC treatments was US$3·63 per child. Interpretation SMC at scale was effective in preventing morbidity and mortality from malaria. Serious adverse reactions were rarely reported. Coverage varied, with some areas consistently achieving high levels via door-to-door campaigns. Markers of resistance to sulfadoxine-pyrimethamine and amodiaquine remained uncommon, but with some selection for resistance to sulfadoxine-pyrimethamine, and the situation needs to be carefully monitored. These findings should support efforts to ensure high levels of SMC coverage in west and central Africa. Funding Unitaid.",
+      "scope": "international",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7718580/",
+      "pdfUrl": "https://europepmc.org/articles/PMC7718580?pdf=render"
+    },
+    {
+      "externalId": "10.1002/14651858.cd000363.pub3",
+      "doi": "10.1002/14651858.cd000363.pub3",
+      "pmcid": "PMC6418392",
+      "pmid": "30398672",
+      "title": "Insecticide-treated nets for preventing malaria.",
+      "authors": [
+        "Pryce J",
+        "Richardson M",
+        "Lengeler C"
+      ],
+      "year": 2018,
+      "journal": "The Cochrane database of systematic reviews",
+      "abstract": "Background A previous version of this Cochrane Review identified that insecticide-treated nets (ITNs) are effective at reducing child mortality, parasite prevalence, and uncomplicated and severe malaria episodes. Insecticide-treated nets have since become a core intervention for malaria control and have contributed greatly to the dramatic decline in disease incidence and malaria-related deaths seen since the turn of the millennium. However, this time period has also seen a rise in resistance to pyrethroids (the insecticide used in ITNs), raising questions over whether the evidence from trials conducted before resistance became widespread can be applied to estimate the impact of ITNs on malaria transmission today. Objectives The primary objective of this review was to assess the impact of ITNs on mortality and malaria morbidity, incorporating any evidence published since the previous update into new and existing analyses, and assessing the certainty of the resulting evidence using GRADE. Search methods We searched the Cochrane Infectious Diseases Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL) published in the Cochrane Library, MEDLINE, Embase, LILACS, the World Health Organization (WHO) International Clinical Trials Registry Platform, ClinicalTrials.gov, and the ISRCTN registry for new trials published since 2004 and up to 18 April 2018. Selection criteria We included individual randomized controlled trials (RCTs) and cluster RCTs comparing bed nets or curtains treated with a synthetic pyrethroid insecticide at a minimum target impregnation dose recommended by the WHO with no nets or untreated nets. Data collection and analysis One review author assessed the identified trials for eligibility and risk of bias, and extracted data. We compared intervention and control data using risk ratios (RRs), rate ratios, and mean differences, and presented all results with their associated 95% confidence intervals (CIs). We assessed the certainty of evidence using the GRADE approach. We drew on evidence from a meta-analysis of entomological outcomes stratified by insecticide resistance from 2014 to inform the GRADE assessments. Main results Our updated search identified three new trials. A total of 23 trials met the inclusion criteria, enrolling more than 275,793 adults and children. The included studies were conducted between 1987 and 2001.ITN versus no netsInsecticide-treated nets reduce child mortality from all causes by 17% compared to no nets (rate ratio 0.83, 95% CI 0.77 to 0.89; 5 trials, 200,833 participants, high-certainty evidence). This corresponds to a saving of 5.6 lives (95% CI 3.6 to 7.6) each year for every 1000 children protected with ITNs. Insecticide-treated nets also reduce the incidence of uncomplicated episodes of Plasmodium falciparum malaria by almost a half (rate ratio 0.55, 95% CI 0.48 to 0.64; 5 trials, 35,551 participants, high-certainty evidence) and probably reduce the incidence of uncomplicated episodes of Plasmodium vivax malaria (risk ratio (RR) 0.61, 95% CI 0.48 to 0.77; 2 trials, 10,967 participants, moderate-certainty evidence).Insecticide-treated nets were also shown to reduce the prevalence of P falciparum malaria by 17% compared to no nets (RR 0.83, 95% CI 0.71 to 0.98; 6 trials, 18,809 participants, high-certainty evidence) but may have little or no effect on the prevalence of P vivax malaria (RR 1.00, 95% CI 0.75 to 1.34; 2 trials, 10,967 participants, low-certainty evidence). A 44% reduction in the incidence of severe malaria episodes was seen in the ITN group (rate ratio 0.56, 95% CI 0.38 to 0.82; 2 trials, 31,173 participants, high-certainty evidence), as well as an increase in mean haemoglobin (expressed as mean packed cell volume) compared to the no-net group (mean difference 1.29, 95% CI 0.42 to 2.16; 5 trials, 11,489 participants, high-certainty evidence).ITN versus untreated netsInsecticide-treated nets probably reduce child mortality from all causes by a third compared to untreated nets (rate ratio 0.67, 95% CI 0.36 to 1.23; 2 trials, 25,389 participants, moderate-certainty evidence). This corresponds to a saving of 3.5 lives (95% CI -2.4 to 6.8) each year for every 1000 children protected with ITNs. Insecticide-treated nets also reduce the incidence of uncomplicated P falciparum malaria episodes (rate ratio 0.58, 95% CI 0.44 to 0.78; 5 trials, 2036 participants, high-certainty evidence) and may also reduce the incidence of uncomplicated P vixax malaria episodes (rate ratio 0.73, 95% CI 0.51 to 1.05; 3 trials, 1535 participants, low-certainty evidence).Use of an ITN probably reduces P falciparum prevalence by one-tenth in comparison to use of untreated nets (RR 0.91, 95% CI 0.78 to 1.05; 3 trials, 2,259 participants, moderate-certainty evidence). However, based on the current evidence it is unclear whether or not ITNs impact on P vivax prevalence (1 trial, 350 participants, very low certainty evidence) or mean packed cell volume (2 trials, 1,909 participants, low certainty evidence). Authors' conclusions Although there is some evidence that insecticide resistance frequency has some effects on mosquito mortality, it is unclear how quantitatively important this is. It appeared insufficient to downgrade the strong evidence of benefit on mortality and malaria illness from the trials conducted earlier.",
+      "scope": "international",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6418392/",
+      "pdfUrl": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000363.pub3/pdf/full"
+    },
+    {
+      "externalId": "10.1371/journal.pmed.1002175",
+      "doi": "10.1371/journal.pmed.1002175",
+      "pmcid": "PMC5119693",
+      "pmid": "27875528",
+      "title": "Effectiveness of Seasonal Malaria Chemoprevention in Children under Ten Years of Age in Senegal: A Stepped-Wedge Cluster-Randomised Trial.",
+      "authors": [
+        "Cissé B",
+        "Ba EH",
+        "Sokhna C",
+        "NDiaye JL",
+        "Gomis JF",
+        "Dial Y",
+        "Pitt C",
+        "NDiaye M",
+        "Cairns M",
+        "Faye E",
+        "NDiaye M",
+        "Lo A",
+        "Tine R",
+        "Faye S",
+        "Faye B",
+        "Sy O",
+        "Konate L",
+        "Kouevijdin E",
+        "Flach C",
+        "Flach C",
+        "Faye O",
+        "Trape JF",
+        "Sutherland C",
+        "Fall FB",
+        "Thior PM",
+        "Faye OK",
+        "Greenwood B",
+        "Gaye O",
+        "Milligan P"
+      ],
+      "year": 2016,
+      "journal": "PLoS medicine",
+      "abstract": "Background Seasonal Malaria Chemoprevention (SMC) with sulfadoxine-pyrimethamine (SP) plus amodiaquine (AQ), given each month during the transmission season, is recommended for children living in areas of the Sahel where malaria transmission is highly seasonal. The recommendation for SMC is currently limited to children under five years of age, but, in many areas of seasonal transmission, the burden in older children may justify extending this age limit. This study was done to determine the effectiveness of SMC in Senegalese children up to ten years of age. Methods and findings SMC was introduced into three districts over three years in central Senegal using a stepped-wedge cluster-randomised design. A census of the population was undertaken and a surveillance system was established to record all deaths and to record all cases of malaria seen at health facilities. A pharmacovigilance system was put in place to detect adverse drug reactions. Fifty-four health posts were randomised. Nine started implementation of SMC in 2008, 18 in 2009, and a further 18 in 2010, with 9 remaining as controls. In the first year of implementation, SMC was delivered to children aged 3-59 months; the age range was then extended for the latter two years of the study to include children up to 10 years of age. Cluster sample surveys at the end of each transmission season were done to measure coverage of SMC and the prevalence of parasitaemia and anaemia, to monitor molecular markers of drug resistance, and to measure insecticide-treated net (ITN) use. Entomological monitoring and assessment of costs of delivery in each health post and of community attitudes to SMC were also undertaken. About 780,000 treatments were administered over three years. Coverage exceeded 80% each month. Mortality, the primary endpoint, was similar in SMC and control areas (4.6 and 4.5 per 1000 respectively in children under 5 years and 1.3 and 1.2 per 1000 in children 5-9 years of age; the overall mortality rate ratio [SMC: no SMC] was 0.90, 95% CI 0.68-1.2, p = 0.496). A reduction of 60% (95% CI 54%-64%, p Conclusions SMC substantially reduced the incidence of outpatient cases of malaria and of severe malaria in children, but no difference in all-cause mortality was observed. Introduction of SMC was associated with an overall reduction in malaria incidence in untreated age groups. In many areas of Africa with seasonal malaria, there is a substantial burden in older children that could be prevented by SMC. SMC in older children is well tolerated and effective and can contribute to reducing malaria transmission. Trial registration ClinicalTrials.gov NCT00712374.",
+      "scope": "international",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5119693/",
+      "pdfUrl": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002175&type=printable"
+    },
+    {
+      "externalId": "10.1186/s12936-017-1974-x",
+      "doi": "10.1186/s12936-017-1974-x",
+      "pmcid": "PMC5553795",
+      "pmid": "28797263",
+      "title": "Measuring the impact of seasonal malaria chemoprevention as part of routine malaria control in Kita, Mali.",
+      "authors": [
+        "Diawara F",
+        "Steinhardt LC",
+        "Mahamar A",
+        "Traore T",
+        "Kone DT",
+        "Diawara H",
+        "Kamate B",
+        "Kone D",
+        "Diallo M",
+        "Sadou A",
+        "Mihigo J",
+        "Sagara I",
+        "Djimde AA",
+        "Eckert E",
+        "Dicko A"
+      ],
+      "year": 2017,
+      "journal": "Malaria journal",
+      "abstract": "Background Seasonal malaria chemoprevention (SMC) is a new strategy recommended by WHO in areas of highly seasonal transmission in March 2012. Although randomized controlled trials (RCTs) have shown SMC to be highly effective, evidence and experience from routine implementation of SMC are limited. Methods A non-randomized pragmatic trial with pre-post design was used, with one intervention district (Kita), where four rounds of SMC with sulfadoxine + amodiaquine (SP + AQ) took place in August-November 2014, and one comparison district (Bafoulabe). The primary aims were to evaluate SMC coverage and reductions in prevalence of malaria and anaemia when SMC is delivered through routine programmes using existing community health workers. Children aged 3-59 months from 15 selected localities per district, sampled with probability proportional to size, were surveyed and blood samples collected for malaria blood smears, haemoglobin (Hb) measurement, and molecular markers of drug resistance in two cross-sectional surveys, one before SMC (July 2014) and one after SMC (December 2014). Difference-in-differences regression models were used to assess and compare changes in malaria and anaemia in the intervention and comparison districts. Adherence and tolerability of SMC were assessed by cross-sectional surveys 4-7 days after each SMC round. Coverage of SMC was assessed in the post-SMC survey. Results During round 1, 84% of targeted children received at least the first SMC dose, but coverage declined to 67% by round 4. Across the four treatment rounds, 54% of children received four complete SMC courses. Prevalence of parasitaemia was similar in intervention and comparison districts prior to SMC (23.4 vs 29.5%, p = 0.34) as was the prevalence of malaria illness (2.4 vs 1.9%, p = 0.75). After SMC, parasitaemia prevalence fell to 18% in the intervention district and increased to 46% in the comparison district [difference-in-differences (DD) OR = 0.35; 95% CI 0.20-0.60]. Prevalence of malaria illness fell to a greater degree in the intervention district versus the comparison district (DD OR = 0.20; 95% CI 0.04-0.94) and the same for moderate anaemia (Hb Conclusions Routine implementation of SMC in Mali substantially reduced malaria and anaemia, with reductions of similar magnitude to those seen in previous RCTs. Improving coverage could further strengthen SMC impact. Trial registration clinical trial registration number NCT02894294.",
+      "scope": "international",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5553795/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5553795?pdf=render"
+    },
+    {
+      "externalId": "10.1371/journal.pmed.1003727",
+      "doi": "10.1371/journal.pmed.1003727",
+      "pmcid": "PMC8457484",
+      "pmid": "34495978",
+      "title": "Effectiveness of seasonal malaria chemoprevention (SMC) treatments when SMC is implemented at scale: Case-control studies in 5 countries.",
+      "authors": [
+        "Cairns M",
+        "Ceesay SJ",
+        "Sagara I",
+        "Zongo I",
+        "Kessely H",
+        "Gamougam K",
+        "Diallo A",
+        "Ogboi JS",
+        "Moroso D",
+        "Van Hulle S",
+        "Eloike T",
+        "Snell P",
+        "Scott S",
+        "Merle C",
+        "Bojang K",
+        "Ouedraogo JB",
+        "Dicko A",
+        "Ndiaye JL",
+        "Milligan P"
+      ],
+      "year": 2021,
+      "journal": "PLoS medicine",
+      "abstract": "Background Seasonal malaria chemoprevention (SMC) has shown high protective efficacy against clinical malaria and severe malaria in a series of clinical trials. We evaluated the effectiveness of SMC treatments against clinical malaria when delivered at scale through national malaria control programmes in 2015 and 2016. Methods and findings Case-control studies were carried out in Mali and The Gambia in 2015, and in Burkina Faso, Chad, Mali, Nigeria, and The Gambia in 2016. Children aged 3-59 months presenting at selected health facilities with microscopically confirmed clinical malaria were recruited as cases. Two controls per case were recruited concurrently (on or shortly after the day the case was detected) from the neighbourhood in which the case lived. The primary exposure was the time since the most recent course of SMC treatment, determined from SMC recipient cards, caregiver recall, and administrative records. Conditional logistic regression was used to estimate the odds ratio (OR) associated with receipt of SMC within the previous 28 days, and SMC 29 to 42 days ago, compared with no SMC in the past 42 days. These ORs, which are equivalent to incidence rate ratios, were used to calculate the percentage reduction in clinical malaria incidence in the corresponding time periods. Results from individual countries were pooled in a random-effects meta-analysis. In total, 2,126 cases and 4,252 controls were included in the analysis. Across the 7 studies, the mean age ranged from 1.7 to 2.4 years and from 2.1 to 2.8 years among controls and cases, respectively; 42.2%-50.9% and 38.9%-46.9% of controls and cases, respectively, were male. In all 7 individual case-control studies, a high degree of personal protection from SMC against clinical malaria was observed, ranging from 73% in Mali in 2016 to 98% in Mali in 2015. The overall OR for SMC within 28 days was 0.12 (95% CI: 0.06, 0.21; p Conclusions SMC administered as part of routine national malaria control activities provided a very high level of personal protection against clinical malaria over 28 days post-treatment, similar to the efficacy observed in clinical trials. The case-control design used in this study can be used at intervals to ensure SMC treatments remain effective.",
+      "scope": "international",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8457484/",
+      "pdfUrl": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1003727&type=printable"
+    },
+    {
+      "externalId": "10.1186/s13071-018-2783-y",
+      "doi": "10.1186/s13071-018-2783-y",
+      "pmcid": "PMC5869791",
+      "pmid": "29587882",
+      "title": "Comparative effectiveness of malaria prevention measures: a systematic review and network meta-analysis.",
+      "authors": [
+        "Wangdi K",
+        "Furuya-Kanamori L",
+        "Clark J",
+        "Barendregt JJ",
+        "Gatton ML",
+        "Banwell C",
+        "Kelly GC",
+        "Doi SAR",
+        "Clements ACA"
+      ],
+      "year": 2018,
+      "journal": "Parasites & vectors",
+      "abstract": "Background Malaria causes significant morbidity and mortality worldwide. There are several preventive measures that are currently employed, including insecticide-treated nets (ITNs, including long-lasting insecticidal nets and insecticidal-treated bed nets), indoor residual spraying (IRS), prophylactic drugs (PD), and untreated nets (UN). However, it is unclear which measure is the most effective for malaria prevention. We therefore undertook a network meta-analysis to compare the efficacy of different preventive measures on incidence of malaria infection. Methods A systematic literature review was undertaken across four medical and life sciences databases (PubMed, Cochrane Central, Embase, and Web of Science) from their inception to July 2016 to compare the effectiveness of different preventive measures on malaria incidence. Data from the included studies were analysed for the effectiveness of several measures against no intervention (NI). This was carried out using an automated generalized pairwise modeling (GPM) framework for network meta-analysis to generate mixed treatment effects against a common comparator of no intervention (NI). Results There were 30 studies that met the inclusion criteria from 1998-2016. The GPM framework led to a final ranking of effectiveness of measures in the following order from best to worst: PD, ITN, IRS and UN, in comparison with NI. However, only ITN (RR: 0.49, 95% CI: 0.32-0.74) showed precision while other methods [PD (RR: 0.24, 95% CI: 0.004-15.43), IRS (RR: 0.55, 95% CI: 0.20-1.56) and UN (RR: 0.73, 95% CI: 0.28-1.90)] demonstrating considerable uncertainty associated with their point estimates. Conclusion Current evidence is strong for the protective effect of ITN interventions in malaria prevention. Even though ITNs were found to be the only preventive measure with statistical support for their effectiveness, the role of other malaria control measures may be important adjuncts in the global drive to eliminate malaria.",
+      "scope": "international",
+      "diseaseTags": [
+        "malaria"
+      ],
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5869791/",
+      "pdfUrl": "https://europepmc.org/articles/PMC5869791?pdf=render"
+    }
+  ]
+}
