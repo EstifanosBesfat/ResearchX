@@ -1,0 +1,22 @@
+{
+  "name": "researchx",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Citation-grounded Ethiopian health research intelligence.",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build -w @researchx/shared && npm run build -w @researchx/api && npm run build -w @researchx/web",
+    "dev:api": "npm run build -w @researchx/shared && npm run dev -w @researchx/api",
+    "dev:web": "npm run build -w @researchx/shared && npm run dev -w @researchx/web",
+    "test": "npm run test -w @researchx/shared && python3 -m pytest services/ingest/tests -q",
+    "migrate": "npm run build -w @researchx/shared && npm run migrate -w @researchx/api",
+    "ingest": "python3 -m ingest",
+    "start:api": "npm run start -w @researchx/api"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
